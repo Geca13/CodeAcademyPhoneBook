@@ -1,5 +1,4 @@
 package com.example.phonebook.entity;
-
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
